@@ -1,0 +1,7 @@
+Utilizador: nina fez um depósito de 300055 na conta 55555 em Thu May 22 08:51:30 UTC 2025
+Utilizador: mateus criou a conta 0007 do tipo 0007 em Thu May 22 09:15:27 UTC 2025
+Utilizador: mateus fez um depósito de 57000 na conta 0007 em Thu May 22 09:15:45 UTC 2025
+Utilizador: mateus fez um depósito de 57000.00 MZN na conta 0007 em Thu May 22 09:15:51 UTC 2025
+Utilizador: duarte criou a conta 60006 do tipo Conta ContaCorrente em Thu May 22 11:30:35 UTC 2025
+Utilizador: duarte fez um depósito de 400000 na conta 60006 em Thu May 22 11:30:58 UTC 2025
+Utilizador: duarte Consultou SALDO, com montante de 400000.0 em Thu May 22 11:31:19 UTC 2025
